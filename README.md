@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/anton-skrebatun-2a1ab9183/">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://vk.com/doved_dev">
-    <img src="https://img.shields.io/badge/vk-orange?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
   <a href="https://t.me/Tony1923">
     <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=Telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -26,7 +23,7 @@ Hello everyone, my name is Anton. I have been interested in programming for a lo
 
 ### Frontend🐥
 
-![ReactJS](https://img.shields.io/badge/react-808080.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactJS](https://img.shields.io/badge/react-2F4F4F.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-FFD700.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-0000CD.svg?style=for-the-badge&logo=typescript&logoColor=white)
 

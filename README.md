@@ -45,7 +45,7 @@ Hello everyone, my name is Anton. I have been interested in programming for a lo
 
 <br />
 
-## Languages✈️
+## Languages🦜
 
  🏴󠁧󠁢󠁥󠁮󠁧󠁿 English - C1 <br>
  🇵🇱 Polish - C2 <br>

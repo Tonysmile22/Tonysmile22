@@ -14,6 +14,8 @@
 <br />
 
 [![codewars](https://www.codewars.com/users/Tonysmile22/badges/large)](https://www.codewars.com/users/Tonysmile22)
+
+<br />
       
 Hello everyone, my name is Anton. I have been interested in programming for a long time, but I really only discovered this area a few years ago. Familiar with several programming languages. But most of all I enjoy building user interfaces with React. In the near future I plan to improve my skills in Frontend development. I also have an understanding of the server side, sometimes I develop in Node.js to broaden my horizons.
 
